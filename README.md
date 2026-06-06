@@ -1,6 +1,7 @@
 # Forgeuslously-Optimized-Legacy-
 Best Performance in Minecraft 1.12.2 Without Optifine! (based on Fabulously Optimized)
 Disclaimer
+
 All credit for the mods chosen goes to respective mod creators, and to the amazing team that worked on the original Forgeulously Optimized modpack. This project is not affiliated with 1Hippo_ (original creator) or related parties.
 
 Forgeulously Optimized For 1.12.2!
